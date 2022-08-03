@@ -1,7 +1,15 @@
-p{
-   background-color:lightblue;
-   border:2px solid red;
-   border-width:5px;
-   padding:10px;    
+body {
+    background-color:#AFB4FF;
+     }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+          }
+h1{
+  font-family: cursive;
+  color:#F5E8E4;
 
 }
