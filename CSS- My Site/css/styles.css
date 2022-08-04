@@ -1,0 +1,19 @@
+.top{
+  height:200px;
+  width:200px;
+  padding: 20px;
+  border: solid 20px;
+  background-color:blue;
+  display: inline-block;
+  top: 10px;
+}
+
+.middle{
+  height:200px;
+  width:200px;
+  padding: 20px;
+  border: solid 20px;
+  background-color:red;
+  display: inline-block;
+  position: relative;
+}
