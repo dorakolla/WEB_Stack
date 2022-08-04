@@ -4,16 +4,22 @@
   padding: 20px;
   border: solid 20px;
   background-color:blue;
-  display: inline-block;
-  top: 10px;
-}
+  position:absolute;
 
+}
+div{
+  text-align: center;
+}
+p{
+  margin: auto 20px auto 20px;
+}
 .middle{
   height:200px;
   width:200px;
   padding: 20px;
-  border: solid 20px;
+  border: solid green 20px;
   background-color:red;
   display: inline-block;
-  position: relative;
+  position: absolute;
+  left:285px;
 }
